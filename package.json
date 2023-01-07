@@ -17,6 +17,7 @@
         "react-github-calendar": "^3.4.0",
         "react-scripts": "5.0.1",
         "react-tooltip": "^5.4.0",
+        "react-ts-github-calendar": "^1.0.3",
         "web-vitals": "^2.1.4"
     },
     "scripts": {
